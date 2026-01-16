@@ -52,7 +52,7 @@ Please ensure your code follows the project's coding and naming standards.
 
 For questions, suggestions, or feedback, you can join our Discord server:
 
-- [Polygon Hive Discord](https://discord.gg/cHapAHs3)
+- [Polygon Hive Discord](https://discord.gg/8KK5WnDp3D)
 
 ## Support My Work
 
